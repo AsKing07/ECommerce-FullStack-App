@@ -3,6 +3,6 @@ A simple FullStack ECommerce App with BackEnd Api CRUD and FrontEnd made with Vu
 
 ## Images
 
-<img src="img1.jpg" alt="Image 1" >
-  <img src="img2.jpg" alt="Image 2">
-  <img src="img3.jpg" alt="Image 3">
+<img src="img1.png" alt="Image 1" >
+  <img src="img2.png" alt="Image 2">
+  <img src="img3.png" alt="Image 3">
